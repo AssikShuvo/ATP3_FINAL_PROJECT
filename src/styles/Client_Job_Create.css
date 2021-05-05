@@ -1,0 +1,19 @@
+.create-job-form{
+	background-color: #768B99;
+	padding: 20px;
+	height: 650px;
+	width: 500px;
+	
+	margin-left: 120px;
+	
+	
+}
+
+.create-job-form label{
+	font-size: 25px;
+
+}
+
+.caution{
+	margin-left: 125px;
+}

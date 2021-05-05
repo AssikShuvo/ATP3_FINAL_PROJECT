@@ -1,0 +1,54 @@
+.home{
+    height: 100vh;
+    width: 100vw;
+    background-color: cadetblue;
+
+}
+
+.home-first{
+    display: flex;
+    justify-content: center;
+    font-family: Lucida Handwriting;
+    font-size: 60px;
+    padding-top: 100px;
+}
+
+.home-second{
+    display: flex;
+    justify-content: center;
+    font-family: Lucida Handwriting;
+    font-size: 40px;
+    padding-top: 50px;
+    
+}
+
+.home-third{
+    display: flex;
+    justify-content: center;
+    font-family: Lucida Handwriting;
+    font-size: 40px;
+    padding-bottom: 50px;
+}
+
+.home-hire{
+    display: flex;
+    justify-content: center;
+    padding: 25px;
+}
+
+.home-hire a{
+    font-size: 50px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.home-others{
+    display: flex;
+    justify-content: center;
+    padding: 25px;
+}
+
+.home-others a{
+    margin: 20px;
+    font-size: 50px;
+}

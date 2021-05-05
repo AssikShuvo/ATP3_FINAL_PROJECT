@@ -1,0 +1,19 @@
+.create-event-form{
+	background-color: #768B99;
+	padding: 20px;
+	height: 700px;
+	width: 500px;
+	
+	margin-left: 120px;
+	
+	
+}
+
+.create-event-form label{
+	font-size: 20px;
+
+}
+
+.caution{
+	margin-left: 125px;
+}

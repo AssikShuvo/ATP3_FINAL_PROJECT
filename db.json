@@ -1,0 +1,192 @@
+{
+  "job_posts": [
+    {
+      "id": 1,
+      "job_title": "Project 01",
+      "job_price": "1000",
+      "job_category": "Design & Creative",
+      "job_description": "Need a nice logo for a gaming company",
+      "job_delivery_time": "2021-05-05",
+      "job_status": "New Project"
+    },
+    {
+      "id": 2,
+      "job_title": "Project 02",
+      "job_price": "2000",
+      "job_category": "Design & Creative",
+      "job_description": "Need a nice logo for a business company",
+      "job_delivery_time": "2021-05-10",
+      "job_status": "Completed Project"
+    },
+    {
+      "job_title": "Project 03",
+      "job_price": "3000",
+      "job_category": "Development & IT",
+      "job_description": "Web Development",
+      "job_delivery_time": "2021-05-31",
+      "job_status": "New Project",
+      "id": 3
+    },
+    {
+      "job_title": "Project 04",
+      "job_price": "4000",
+      "job_category": "Writing and Translation",
+      "job_description": "Writing plays",
+      "job_delivery_time": "2021-05-30",
+      "job_status": "New Project",
+      "id": 4
+    },
+    {
+      "job_title": "Project 05",
+      "job_price": "5000",
+      "job_category": "Engineering & Architecture",
+      "job_description": "You will be dealing with the hardware parts of a computer",
+      "job_delivery_time": "2021-05-29",
+      "job_status": "New Project",
+      "id": 5
+    },
+    {
+      "job_title": "Project 06",
+      "job_price": "6000",
+      "job_category": "Sales & Marketing",
+      "job_description": "Promoting the company's existing brands and introducing new products to the market",
+      "job_delivery_time": "2021-05-28",
+      "job_status": "New Project",
+      "id": 6
+    },
+    {
+      "job_title": "Project 07",
+      "job_price": "7000",
+      "job_category": "Admin & Customer Support",
+      "job_description": "Taking orders and responding to inquiries of the customer",
+      "job_delivery_time": "2021-05-30",
+      "job_status": "New Project",
+      "id": 7
+    },
+    {
+      "job_title": "Project 08",
+      "job_price": "8000",
+      "job_category": "Legal",
+      "job_description": "Researching and gathering evidence for cases",
+      "job_delivery_time": "2021-05-29",
+      "job_status": "New Project",
+      "id": 8
+    },
+    {
+      "job_title": "Project 09",
+      "job_price": "5000",
+      "job_category": "Development & IT",
+      "job_description": "Game Development",
+      "job_delivery_time": "2021-05-31",
+      "job_status": "New Project",
+      "id": 9
+    },
+    {
+      "job_title": "Project 10",
+      "job_price": "8000",
+      "job_category": "Development & IT",
+      "job_description": "Game Development",
+      "job_delivery_time": "2021-05-28",
+      "job_status": "New Project",
+      "id": 10
+    },
+    {
+      "id": 11,
+      "job_title": "Project 11",
+      "job_price": "2000",
+      "job_category": "Design & Creative",
+      "job_description": "Need a nice logo for a business company",
+      "job_delivery_time": "2021-05-13",
+      "job_status": "Completed Project"
+    },
+    {
+      "id": 12,
+      "job_title": "Project 12",
+      "job_price": "3000",
+      "job_category": "Design & Creative",
+      "job_description": "Need a nice logo for a gaming company",
+      "job_delivery_time": "2021-06-10",
+      "job_status": "Ongoing Project"
+    },
+    {
+      "id": 13,
+      "job_title": "Project 13",
+      "job_price": "4000",
+      "job_category": "Development & IT",
+      "job_description": "Need to develop a car game",
+      "job_delivery_time": "2021-06-10",
+      "job_status": "Ongoing Project"
+    },
+    {
+      "job_title": "Project 11",
+      "job_price": "11000",
+      "job_category": "Design & Creative",
+      "job_description": "Animation Designing",
+      "job_delivery_time": "2021-05-31",
+      "job_status": "New Project",
+      "id": 14
+    }
+  ],
+  "event_posts": [
+    {
+      "id": 1,
+      "event_title": "Event 01",
+      "event_prize": "10000",
+      "event_category": "Design & Creative",
+      "event_description": "Logo Designing",
+      "event_start_date": "2021-05-05",
+      "event_stop_date": "2021-05-10",
+      "event_status": "Upcoming Event"
+    },
+    {
+      "id": 2,
+      "event_title": "Event 02",
+      "event_prize": "20000",
+      "event_category": "Design & Creative",
+      "event_description": "Character Designing",
+      "event_start_date": "2021-05-11",
+      "event_stop_date": "2021-05-18",
+      "event_status": "Ongoing Event"
+    },
+    {
+      "id": 3,
+      "event_title": "Event 03",
+      "event_prize": "30000",
+      "event_category": "Writing & Translation",
+      "event_description": "Need to write a nice paragraph",
+      "event_start_date": "2021-04-05",
+      "event_stop_date": "2021-04-15",
+      "event_status": "Finished Event"
+    },
+    {
+      "event_title": "Event 04",
+      "event_prize": "4000",
+      "event_category": "Development & IT",
+      "event_description": "Need to develop a game website",
+      "event_start_date": "2021-05-11",
+      "event_stop_date": "2021-05-18",
+      "event_status": "Upcoming Event",
+      "id": 4
+    },
+    {
+      "event_title": "Event 05",
+      "event_prize": "5000",
+      "event_category": "Development & IT",
+      "event_description": "Need to develop a business webpage",
+      "event_start_date": "2021-05-18",
+      "event_stop_date": "2021-05-25",
+      "event_status": "Upcoming Event",
+      "id": 5
+    },
+    {
+      "event_title": "Event 06",
+      "event_prize": "6000",
+      "event_category": "Design & Creative",
+      "event_description": "Video Editing",
+      "event_start_date": "2021-05-25",
+      "event_stop_date": "2021-05-31",
+      "event_status": "Upcoming Event",
+      "id": 6
+    }
+  ]
+}
